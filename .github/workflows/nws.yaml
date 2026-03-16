@@ -24,6 +24,7 @@ jobs:
             any::dplyr
             any::tidyr
             any::purrr
+            any::jsonlite
           
          
 
