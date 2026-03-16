@@ -3,7 +3,7 @@ library(sf)
 library(dplyr)
 library(tidyr)
 library(purrr)
-library(leaflet)
+
 
 # ── 1. Fetch active alerts for Maryland ──────────────────────────────────────
 alerts_raw <- request("https://api.weather.gov/alerts/active") |>
