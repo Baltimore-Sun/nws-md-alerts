@@ -3,6 +3,7 @@ library(sf)
 library(dplyr)
 library(tidyr)
 library(purrr)
+library(jsonlite)
 
 
 # ── 1. Fetch active alerts for Maryland ──────────────────────────────────────
